@@ -8,7 +8,7 @@
 * **Paste** this code in window (SCRIPT tab) from Edit tool.
 * **Push** APPLY or ACCEPT.
 ## REQUIREMENTS
-SideFX Houdini 16.5
+SideFX Houdini 16.5 or higher.
 ## HOW TO USE
 [Animation of using tool](https://gfycat.com/SilentClearCavy)
 ## WHAT'S NEXT
