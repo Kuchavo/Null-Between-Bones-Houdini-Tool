@@ -1,6 +1,9 @@
 # Null Between Bones Houdini Tool
-Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes).
-Used to create of controls for rigging.
+>Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes).
+>Used to create of controls for rigging.
+## INSTALLATION
+## REQUIREMENTS
+SideFX Houdini 16.5
 ## Using Tool
 [Animation of using tool](https://gfycat.com/SilentClearCavy)
 ## Pull requests welcome!
