@@ -1,5 +1,5 @@
 # Null Between Bones Houdini Tool
-![Bones with Null nodes](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool/blob/master/null_bw_bone.jpg?raw=true)
+![Bones with Null nodes](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool/blob/master/Null%20Between%20Bones%20Tool.gif?raw=true)
 >Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes).
 >Used to create of controls for rigging.
 ## REQUIREMENTS
