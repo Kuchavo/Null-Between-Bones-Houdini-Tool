@@ -4,7 +4,7 @@
 ## INSTALLATION
 * **Create** a NEW TOOL on SHELF in Houdini Tool Panel.
 * **Name** this tool (e.g. "Null Between Bones").
-* **Copy** code in *null_bw_bones_tool_#.#.#.py file*.
+* **Copy** code in *null_bw_bones_tool_#.#.#.py* file.
 * **Paste** this code in window (SCRIPT tab) from Edit tool.
 * **Push** APPLY or ACCEPT.
 ## REQUIREMENTS
