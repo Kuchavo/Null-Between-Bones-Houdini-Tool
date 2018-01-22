@@ -2,4 +2,4 @@
 Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes).
 Used to create of controls for rigging.
 ***
-Using animation: https://gfycat.com/SilentClearCavy
+Animation of using tool: https://gfycat.com/SilentClearCavy
