@@ -1,5 +1,5 @@
 # Null Between Bones Houdini Tool
-![dddd](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool/blob/master/null_bw_bone.jpg?raw=true)
+![Bones with Null nodes](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool/blob/master/null_bw_bone.jpg?raw=true)
 >Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes).
 >Used to create of controls for rigging.
 ## REQUIREMENTS
@@ -12,5 +12,6 @@ SideFX Houdini 16.5 or higher.
 * **Push** APPLY or ACCEPT.
 ## HOW TO USE
 [Animation of using tool](https://gfycat.com/SilentClearCavy)
+![Bones network](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool/blob/master/bone_nodes.jpg?raw=true)
 ## WHAT'S NEXT
 Fixing bugs and expansion of tool capabilities.
