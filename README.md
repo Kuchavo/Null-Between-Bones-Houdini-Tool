@@ -6,4 +6,4 @@ Used to create of controls for rigging.
 [Animation of using tool] (https://gfycat.com/SilentClearCavy)
 ## Pull requests welcome!
 ***
-![alt text](https://gfycat.com/SilentClearCavy)
+Spotted an error? Something doesn't make sense? Send me a [pull request](https://github.com/noffle/art-of-readme/pulls)! Please avoid making stylistic changes though -- they are unlikely to be accepted. Thanks!
