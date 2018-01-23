@@ -1,4 +1,4 @@
-# Null Between Bones Houdini Tool
+# Null Between Bones Houdini Tool v.1.0.0
 ![null between bones tool](https://user-images.githubusercontent.com/25153563/35271517-706ee61c-0043-11e8-9014-c7469553c7ef.gif)
 >Creation of 'Null' nodes between all selected nodes (e.g. 'Bone' nodes).
 >Used to create of controls for rigging.
