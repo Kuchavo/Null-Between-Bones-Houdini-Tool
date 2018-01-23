@@ -11,7 +11,10 @@ SideFX Houdini 16.5 or higher.
 * **Paste** this code in window (SCRIPT tab) from Edit tool.
 * **Push** APPLY or ACCEPT.
 ## HOW TO USE
-[Animation of using tool](https://gfycat.com/SilentClearCavy)
+* **Create** some bones.
+* **Select** 2-10 neccessery bones in node network.
+* **Push** on the created tool button (named "Null Between Bones")/run the script.
+
 ![Bones network](https://github.com/Kuchavo/Null-Between-Bones-Houdini-Tool/blob/master/bone_nodes.jpg?raw=true)
 ## WHAT'S NEXT
 Fixing bugs and expansion of tool capabilities.
