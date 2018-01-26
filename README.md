@@ -4,6 +4,7 @@
 >Used to create of controls for rigging.
 ## REQUIREMENTS
 SideFX Houdini 16.5 or higher.
+The script works only with tools from Houdini Tool Panel (don't works with custom rigging nodes and them custom names). It will be fix soon.
 ## INSTALLATION
 * **Create** a NEW TOOL on SHELF in Houdini Tool Panel.
 * **Name** this tool (e.g. "Null Between Bones").
