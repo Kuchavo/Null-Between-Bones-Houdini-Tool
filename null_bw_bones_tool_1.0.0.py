@@ -1,6 +1,6 @@
 # === Null Between Bones Tool ===
 # Contributors: Igor Kuchavo
-# Requires at least: WordPress 4.8.2
+# Requires at least: Houdini 15
 # Tested up to: Houdini FX 16.5
 # Version: 1.0.0
 
